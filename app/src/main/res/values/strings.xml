@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HELPFit</string>
+    <string name="title_activity_trainer_main">TrainerMainActivity</string>
+    <string name="Home_menu">Home</string>
+    <string name="Training_menu">Session</string>
+    <string name="Account_menu">Account</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="SesisonName">Session Name</string>
+    <string name="title_activity_iseng">Iseng</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
